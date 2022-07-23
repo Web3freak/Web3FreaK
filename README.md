@@ -38,4 +38,4 @@ Hi there 👋
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=web3freak&show_icons=true&locale=en&layout=compact" alt="web3freak" /></p>
+<h2><span>MY Stack<span><h2/>
