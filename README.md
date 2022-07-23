@@ -38,4 +38,5 @@ Hi there 👋
 </p>
 
 
-<h2><span>MY Stack<span><h2/>
+<h2><span>My Stack<span><h2/>
+ ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
