@@ -6,3 +6,4 @@ Hi there 👋
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like reading hot takes on twitter even though I know that people are just posturing...
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
